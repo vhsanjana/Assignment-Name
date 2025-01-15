@@ -1,2 +1,2 @@
-# Assignment-Name
-Unishell Scripting
+# Assignments
+Assignments of Unishell Scripting
